@@ -9,9 +9,9 @@ Interactivity includes picking which dates to display or measure from, as well a
 
 To serve the dashboard locally please download the main 'bradley_glucose_dashboard.ipynb' file and use the following command in the terminal:
 ```
-panel serve bradley_glucose_dashboard.ipynb
+panel serve --show bradley_glucose_dashboard.ipynb
 ```
 This is still a prototype, so key features I aim to add include displaying it on my personal website (no need to download), as well as automating the pre-processing of the dataset. Please note that currently the dashboard displays data up to June 5, 2021 as I am using an old dataset. I will update this one shortly.
 
-<img width="1440" alt="Screen Shot 2022-03-28 at 1 11 56 PM" src="https://user-images.githubusercontent.com/50122955/160451650-521b4ac7-5aeb-47a3-9bec-833df034faa2.png">
-<img width="1438" alt="Screen Shot 2022-03-28 at 1 12 19 PM" src="https://user-images.githubusercontent.com/50122955/160451655-ed2e6c50-24f1-4787-88c9-ba4725dc5bb9.png">
+<img width="1440" alt="Screen Shot 2022-03-31 at 1 15 07 AM" src="https://user-images.githubusercontent.com/50122955/160981515-40e06232-8817-4a6a-889a-3923b3bcd948.png">
+<img width="1436" alt="Screen Shot 2022-03-31 at 1 15 35 AM" src="https://user-images.githubusercontent.com/50122955/160981529-e4ab0a86-eef4-4ef1-9096-3ecda34145cc.png">
