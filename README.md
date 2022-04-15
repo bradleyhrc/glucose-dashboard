@@ -11,5 +11,7 @@ Interactivity includes picking which dates to display or measure from, as well a
 
 Now that I've successfully (painfully I should say) deployed my dashboard to the web, my next step includes looking into the automation of the collection of data. Please note that currently the dashboard displays data up to April 9, 2022 as I currently must update the dataset manually.
 
-<img width="1440" alt="Screen Shot 2022-03-31 at 1 15 07 AM" src="https://user-images.githubusercontent.com/50122955/160981515-40e06232-8817-4a6a-889a-3923b3bcd948.png">
-<img width="1436" alt="Screen Shot 2022-03-31 at 1 15 35 AM" src="https://user-images.githubusercontent.com/50122955/160981529-e4ab0a86-eef4-4ef1-9096-3ecda34145cc.png">
+<img width="1440" alt="Screen Shot 2022-04-15 at 3 44 11 PM" src="https://user-images.githubusercontent.com/50122955/163625314-68819691-9047-4dd3-a8de-e614afba247c.png">
+<img width="1440" alt="Screen Shot 2022-04-15 at 3 46 09 PM" src="https://user-images.githubusercontent.com/50122955/163625333-ff0032f5-749c-411d-aa33-353c6f010a49.png">
+<img width="1440" alt="Screen Shot 2022-04-15 at 3 45 15 PM" src="https://user-images.githubusercontent.com/50122955/163625323-412475bb-bb18-42b4-ab4a-7514995dcde7.png">
+
