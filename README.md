@@ -7,9 +7,7 @@ This repository now contains the 1st version of the interactive dashboard, now d
 
 Interactivity includes picking which dates to display or measure from, as well as navigating the graphs. I've added a red region in my plots to indicate critical 'low' areas, where it is possible to feel the effects of low blood sugar (consequences range from shivering, fainting, etc.). Additionally, the green region on the plot indicates the target interval for my blood glucose.
 
-[Visit my interactive glucose dashboard here](https://bradley-glucose-dashboard.herokuapp.com "Bradley's Glucose Dashboard")!
-
-Now that I've successfully (painfully I should say) deployed my dashboard to the web, my next step includes looking into the automation of the collection of data. Please note that currently the dashboard displays data up to April 9, 2022 as I currently must update the dataset manually.
+I succesfully deployed my app to the web using Heroku in the past, however, Heroku has terminated their free services so I am currently evaluating alternatives. My next step includes looking into the automation of the collection of data. Please note that currently the dashboard displays data up to April 9, 2022 as I currently must update the dataset manually.
 
 <img width="1440" alt="Screen Shot 2022-04-15 at 3 44 11 PM" src="https://user-images.githubusercontent.com/50122955/163625314-68819691-9047-4dd3-a8de-e614afba247c.png">
 <img width="1440" alt="Screen Shot 2022-04-15 at 3 46 09 PM" src="https://user-images.githubusercontent.com/50122955/163625333-ff0032f5-749c-411d-aa33-353c6f010a49.png">
